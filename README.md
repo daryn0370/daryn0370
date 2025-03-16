@@ -1,7 +1,8 @@
 <h1 align="center">What up, I'm Daryn
-<img src="https://i.pinimg.com/originals/7a/a6/36/7aa6369992ea6a83143317a3f607f643.gif" height="64"/>
 
 <h3 align="center">Software Developer</h3>
+
+<img src="https://i.pinimg.com/originals/7a/a6/36/7aa6369992ea6a83143317a3f607f643.gif"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kd.kuanushuli) 
