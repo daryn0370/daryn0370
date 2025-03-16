@@ -1,5 +1,5 @@
 <h1 align="center">What up, I'm Daryn
-<img src="https://www.gifcen.com/wp-content/uploads/2022/09/cyberpunk-edgerunners-gif-2.gif" height="64"/>
+<img src="https://i.pinimg.com/originals/7a/a6/36/7aa6369992ea6a83143317a3f607f643.gif" height="64"/>
 
 <h3 align="center">Software Developer</h3>
 
